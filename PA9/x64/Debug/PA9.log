@@ -1,0 +1,55 @@
+﻿  bishop.cpp
+  board.cpp
+M:\CS\122\PA9\PA9\board.cpp(18,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\board.cpp(18,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  chess.cpp
+M:\CS\122\PA9\PA9\chess.cpp(118,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\chess.cpp(159,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\chess.cpp(259,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\chess.cpp(259,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\chess.cpp(264,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+M:\CS\122\PA9\PA9\chess.cpp(264,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  king.cpp
+  knight.cpp
+  main.cpp
+  menu.cpp
+  pawn.cpp
+  piece.cpp
+  queen.cpp
+  rook.cpp
+  test.cpp
+  tile.cpp
+  Generating Code...
+  PA9.vcxproj -> M:\CS\122\PA9\x64\Debug\PA9.exe
